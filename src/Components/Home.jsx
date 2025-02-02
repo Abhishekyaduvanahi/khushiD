@@ -21,7 +21,7 @@ const Home = () => {
       <div className=" flex flex-col md:flex-row justify-center items-center  ">
         {/* this div is for image */}
         <div className=" flex flex-col  ">
-          <p className=" font-serif text-[30px] md:text-[60px]  font-bold p-18 mx-auto">
+          <p className=" font-serif text-[30px] md:text-[60px]  font-bold p-18 ml-4mx-auto">
             {about.name}
           </p>
           {/* <p className=" font-serif text-4xl md:text-[60px] font-bold "> </p> */}
